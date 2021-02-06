@@ -12,6 +12,9 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperS
 Service Details - IBM Cloud
 https://nodejs.org/en/download/
 
+Installing DB2 on windows 10
+https://www.ibm.com/support/knowledgecenter/SS5R93_5.3.1/com.ibm.spectrum.sc.doc/fqz0_t_installing_db2_on_windows.html
+
 
 
 
